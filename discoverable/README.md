@@ -22,7 +22,7 @@ For your repositories to flourish, it's important that people know they exist! H
 
 # README templates
 
-- [Example by @PurpleBooth](purplebooth.md)
+- [Example by @PurpleBooth](purplebooth.md).
 
 # Documentation
 
